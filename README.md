@@ -1,6 +1,6 @@
 <h4 align="center"> 
 
-	🚧  Projeto Formulário de consultório 🚀 Em construção...  🚧
+	🚧  Projeto landing page 🚀 Em construção...  🚧
 </h4> 
 
 <hr> 
@@ -13,7 +13,7 @@
 </h4>	
 
 <div align="center" id="top">
-  <img alt="Formulario" title="Formulario" src="./formulario_consultorio.gif"/>
+  <img alt="InDecor" title="InDecor" src="./InDecor.gif"/>
 </h1>
  
   &#xa0;
