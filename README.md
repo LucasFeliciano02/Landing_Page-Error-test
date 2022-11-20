@@ -8,8 +8,9 @@
 
 <h4 align="center">
 
+<!--
 [Clicar para melhor visualização](https://raw.githubusercontent.com/LucasFeliciano02/Consulting_Form-GUI-CRUD/main/formulario_consultorio.gif)
-
+-->
 </h4>	
 
 <div align="center" id="top">
