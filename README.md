@@ -42,7 +42,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• A ideia do projeto é ser um formulario como o de um consultório médico, em que há o cadastro do cliente e controle por parte do admin.
+• Landing Page para chamada de evento feita com html e css. Aula de Matheus Battisti para aprender front-end.
 ```
 
 ## :sparkles: Funcionalidades ##
