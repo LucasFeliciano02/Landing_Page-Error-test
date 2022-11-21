@@ -61,7 +61,7 @@ As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
 
 <table>
   <thead>
-    <th>Back-end</th>
+    <th>Front-end</th>
   </thead>
   <tbody>
     <tr>
