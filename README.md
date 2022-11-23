@@ -42,15 +42,14 @@
 ## :dart: Sobre ##
 
 ```sh
-• Landing Page para chamada de evento feita com html e css. Aula de Matheus Battisti para aprender front-end.
+• Landing Page de chamada para evento feita com html e css. Aula de Matheus Battisti para aprender front-end.
 ```
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: seções intuitivas mostrando sobre o evento;\
+:heavy_check_mark: Seções intuitivas mostrando sobre o evento;\
 :heavy_check_mark: Formulário para dúvidas;\
-:heavy_check_mark: Ver dados no banco de dados com pesquisa por nome;\
-:heavy_check_mark: Banco de dados local:
+:heavy_check_mark: .
 
 
 ## :rocket: Tecnologias ##
