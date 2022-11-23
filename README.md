@@ -48,7 +48,7 @@
 ## :sparkles: Funcionalidades ##
 
 :heavy_check_mark: seções intuitivas mostrando sobre o evento;\
-:heavy_check_mark: Cadastrar o cliente, colocar seus dados pessoais, data da consulta, hora, especialidade, e profissional;\
+:heavy_check_mark: Formulário para dúvidas;\
 :heavy_check_mark: Ver dados no banco de dados com pesquisa por nome;\
 :heavy_check_mark: Banco de dados local:
 
