@@ -67,11 +67,8 @@ As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
       <td>Html</td>
     </tr>
     <tr>
-      <td>Tkinter</td>
+      <td>Css</td>
     </tr> 
-    <tr>
-	<td>SQLite</td>
-    </tr>    
 	    
   </tbody>
 
