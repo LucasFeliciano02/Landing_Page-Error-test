@@ -64,7 +64,7 @@ As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
   </thead>
   <tbody>
     <tr>
-      <td>Python</td>
+      <td>Html</td>
     </tr>
     <tr>
       <td>Tkinter</td>
