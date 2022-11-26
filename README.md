@@ -98,9 +98,7 @@ Antes de começar 🏁, você vai precisar ter instalado em sua máquina as sequ
  2º  ->  venv\Scripts\activate.bat  
  3º  ->  .\venv\Scripts\activate.bat  
 
-# Baixar Run Code em extensões, tkinter no terminal e DESFRUTAR DO CÓDIGO
- -> terminal -> pip install tkinter
- -> terminal -> pip install pillow
+# Baixar Live server em extensoes.
 ```
 
 
