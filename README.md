@@ -38,11 +38,11 @@
 
 <br>
 				
-	
+	 
 ## :dart: Sobre ##
 
 ```sh
-• Landing Page de chamada para evento feita com html e css. Aula de Matheus Battisti para aprender front-end.
+• Landing Page de chamada para evento de design de interiores feita com html e css. Aula de Matheus Battisti para aprender front-end.
 ```
 
 ## :sparkles: Funcionalidades ##
