@@ -1,6 +1,6 @@
 <h4 align="center"> 
 
-	🚧  Projeto landing page 🚀 Em construção...  🚧
+	🚧  Projeto InDecor 🚀 Em construção...  🚧
 </h4> 
 
 <hr> 
